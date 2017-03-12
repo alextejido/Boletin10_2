@@ -18,5 +18,5 @@ public class Boletin10_2 {
         Xogo obx = new Xogo();
         obx.xogador1();
     }
-    
+    //cambios de prueba examen
 }
